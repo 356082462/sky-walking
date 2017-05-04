@@ -1,4 +1,4 @@
-Sky Walking | [中文](https://github.com/wu-sheng/sky-walking/wiki/sky-walking-documents-zh-contents)
+Sky Walking | [中文1](https://github.com/wu-sheng/sky-walking/wiki/sky-walking-documents-zh-contents)
 ==========
 
 <img src="https://sky-walking.github.io/page-resources/3.0/skywalking.png" alt="Sky Walking logo" height="90px" align="right" />
